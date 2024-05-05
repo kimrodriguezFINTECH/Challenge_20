@@ -85,12 +85,28 @@ To interact with your deployed smart contract, complete the following steps:
 
     * Transaction 1: Send 1 ether as wei.
 
+<img width="1414" alt="Screenshot 2024-05-04 at 3 28 47 PM" src="https://github.com/kimrodriguezFINTECH/Challenge_20/assets/152752672/2ae8d4cd-51ab-46f8-b2e7-b6c55487748f">
+
     * Transaction 2: Send 10 ether as wei.
+    
+<img width="1418" alt="Screenshot 2024-05-04 at 3 29 43 PM" src="https://github.com/kimrodriguezFINTECH/Challenge_20/assets/152752672/1b7c7919-b782-4bd2-9f70-6930051d1ed9">
 
     * Transaction 3: Send 5 ether.
+
+<img width="1412" alt="Screenshot 2024-05-04 at 3 30 09 PM" src="https://github.com/kimrodriguezFINTECH/Challenge_20/assets/152752672/df32fe84-8d4a-4ae2-9ef4-1bfae02cc5c1">
+
 
     > **Note** Remembering how to convert ether to wei and vice versa can be challenging. So, you can use a website like [Ethereum Unit Converter](https://eth-converter.com/) to ease doing the conversion.
 
 3. Once you’ve successfully deposited funds into your contract, test the contract’s withdrawal functionality by withdrawing 5 ether into `accountOne` and 10 ether into `accountTwo`. After each transaction, use the `contractBalance` function to verify that the funds were withdrawn from your contract. Also, use the `lastToWithdraw` and `lastWithdrawAmount` functions to verify that the address and amount were correct.
+   
+* Transaction 1: Withdrawing 5 ether into `accountOne`
+  
+<img width="1412" alt="Screenshot 2024-05-04 at 3 40 36 PM" src="https://github.com/kimrodriguezFINTECH/Challenge_20/assets/152752672/bf5b43c6-d4b9-4890-97ea-48389dbe0885">
+
+* Transaction 1: Withdrawing 10 ether into `accountTwo`
+
+<img width="1416" alt="Screenshot 2024-05-04 at 3 42 04 PM" src="https://github.com/kimrodriguezFINTECH/Challenge_20/assets/152752672/849cf81b-d643-4bc4-8fc3-bee3c24bb6ff">
+
 
 ---
