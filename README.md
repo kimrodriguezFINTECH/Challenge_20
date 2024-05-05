@@ -104,7 +104,7 @@ To interact with your deployed smart contract, complete the following steps:
   
 <img width="1412" alt="Screenshot 2024-05-04 at 3 40 36 PM" src="https://github.com/kimrodriguezFINTECH/Challenge_20/assets/152752672/bf5b43c6-d4b9-4890-97ea-48389dbe0885">
 
-* Transaction 1: Withdrawing 10 ether into `accountTwo`
+* Transaction 2: Withdrawing 10 ether into `accountTwo`
 
 <img width="1416" alt="Screenshot 2024-05-04 at 3 42 04 PM" src="https://github.com/kimrodriguezFINTECH/Challenge_20/assets/152752672/849cf81b-d643-4bc4-8fc3-bee3c24bb6ff">
 
