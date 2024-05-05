@@ -34,6 +34,7 @@ The steps for this homework are divided into the following sections:
 
     * Two variables of type `uint public` named `lastWithdrawAmount` and `contractBalance`
 
+<img width="918" alt="Screenshot 2024-05-05 at 4 53 25 PM" src="https://github.com/kimrodriguezFINTECH/Challenge_20/assets/152752672/93e07735-e989-4387-955c-4251fa3530e7">
 
 4. Define a function named `withdraw` that accepts two arguments: `amount` of type `uint` and `recipient` of type `payable address`. In this function, code the following:
 
