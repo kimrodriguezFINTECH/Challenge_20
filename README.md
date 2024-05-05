@@ -66,6 +66,8 @@ The steps for this homework are divided into the following sections:
 
 3. Click the Deploy button to deploy your smart contract, and then confirm that it successfully deployed.
 
+<img width="1288" alt="Screenshot 2024-05-05 at 4 45 43 PM" src="https://github.com/kimrodriguezFINTECH/Challenge_20/assets/152752672/241bffa2-0443-44c8-ab90-e9d00965be4b">
+
 #### Step 3: Interact with Your Deployed Smart Contract
 
 Now that your contract is deployed, it’s time to test its functionality! After each step, capture a screenshot of the execution, and then save it in a folder named `Execution_Results`. You’ll share this folder with your final submission.
