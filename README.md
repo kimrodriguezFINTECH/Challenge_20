@@ -17,6 +17,7 @@ The steps for this homework are divided into the following sections:
 1. Create a Joint Savings Account Contract in Solidity
 
 2. Compile and Deploy Your Contract in the JavaScript VM
+> **Note** I had to use Berlin as my environment besause there was no option for JavaScript VM. Also my instructor and the tutor both mentioned that it was fine to use that environment that it should not affect my grade. 
 
 3. Interact with Your Deployed Smart Contract
 
@@ -118,3 +119,14 @@ To interact with your deployed smart contract, complete the following steps:
 
 
 ---
+# References: 
+
+### Tutor Meetings through FINTECH Bootcamp:
+- Gerrardo Espinoza
+- Tuesday 4/30/24
+- Saturday 5/4/24
+
+### Instructor:
+- Pablo Jordan
+- Monday (Office Hours) 4/30/24
+
